@@ -14,8 +14,8 @@ type to fit the data.
 
 ## PROGRAM:
 ```
-Name : Dharshni V M
-Register Number : 212223240029
+Name : ROSHINI S
+Register Number : 212223240142
 
 import matplotlib.pyplot as plt
 import numpy as np
